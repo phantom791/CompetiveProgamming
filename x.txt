@@ -1,0 +1,30 @@
+fdkdjh sfkuuh f dkgd euke ue  euh  uiu dg kudu 
+sdgi i uidsa
+sajdu
+kblk
+lklnj
+ nhbh  oiuuhio ou oi joij joi
+
+https://www.youtube.com/watch?v=6DTFIKF8QIg
+
+https://www.youtube.com/watch?v=9RfDQgae_cs
+
+https://www.youtube.com/watch?v=Oku_RUmWGj4
+
+https://www.youtube.com/watch?v=1AErcVrLpyQ
+
+https://www.youtube.com/watch?v=q4pyaVZjqk0
+
+https://www.youtube.com/watch?v=eFByJkA3ti4
+
+https://www.youtube.com/watch?v=eFByJkA3ti4
+
+https://www.youtube.com/watch?v=wHuIuO__7wk
+
+
+map() each
+filter() filters
+reduce() aggregate
+
+list(map(lambda x: x**2, numbers))
+

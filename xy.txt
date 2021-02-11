@@ -1,0 +1,15 @@
+assoc
+cipher
+driverquery
+fc 
+ipconfig
+netstat
+ping
+pathping
+tracert
+powercfg/a /energy
+shutdown
+systeminfo
+sfc/scannow
+tasklist
+taskkill
